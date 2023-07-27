@@ -1,5 +1,5 @@
 homepage: "https://www.vibe.co/"
 documentation: "https://help.vibe.co/en/collections/3639922-campaign-measurement"
 versions:
-  - sha: NA
+  - sha: 94c621e60ac6a7f5aa26cac76f644bb138646608
     changeNotes: Initial release.
